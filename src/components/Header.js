@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Wrapper>
       <H1>Hangy!</H1>
-      <Text>You know the drill. Guess the word, or else....</Text>
+      <Text>Welp.. you know</Text>
     </Wrapper>
   );
 };
